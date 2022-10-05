@@ -1,10 +1,6 @@
 <h1 align="center">Hola! 👋, I'm ridhoandml</h1>
 <h3 align="center">A passionate UX Engineer and Front-end Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhoandml&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoandml" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhoandml" alt="ridhoandml" /></a> </p>
-
 - 🌱 I’m currently learning **Experimenting build design system using VueJS, CSS animation, SEO, and Accessbility Design**
 
 - 👨‍💻 All of my projects are available at [https://ridhoandml.com](https://ridhoandml.com)
