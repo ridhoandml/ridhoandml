@@ -1,37 +1,63 @@
-<h1 align="center">Hola! 👋, I'm ridhoandml</h1>
+<h1 align="center" style="color: #0ea5e9;">Hola! I'm Ridho Anandamal</h1>
 <h3 align="center">A passionate UX Engineer and Front-end Engineer</h3>
 
 - 🌱 I’m currently learning **Experimenting build design system using VueJS, CSS animation, SEO, and Accessbility Design**
 
-- 👨‍💻 All of my projects are available at [https://ridhoandml.com](https://ridhoandml.com)
+- 📄 My personal website, including project non-NDA work, experiment, and labs on [https://ridhoandml.com](https://ridhoandml.com)
 
-- 📝 I regularly write articles on [https://medium.com/@ridhoandml](https://medium.com/@ridhoandml)
+- 💬 Ask me about **UI/UX Design or Design related**
 
-- 💬 Ask me about **UI/UX Design**
 
-- 📫 How to reach me **a.ridho00@gmail.com**
+## Connect With Me
 
-- 📄 Know about my experiences [https://ridhoandml.com/about](https://ridhoandml.com/about)
+[![Email](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.ridho00@gmail.com)
+[![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridhoandml)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0074c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridho-anandamal)
+[![Twitter](https://img.shields.io/badge/Twitter-00C7B7?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ridhoandml)
+[![Figma](https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@ridhoandml)
+[![Behance](https://img.shields.io/badge/Behance-0053f3?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ridhoandml)
+[![Dribbble](https://img.shields.io/badge/Dribbble-f1437e?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ridhoandml)
+[![Instagram](https://img.shields.io/badge/Instagram-CB3837?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ridhoandml)
+[![Medium](https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ridhoandml)
+[![Codepen](https://img.shields.io/badge/Codepen-f5f5f5?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/ridhoandml)
 
-- ⚡ Fun fact **Moody lol**
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ridhoandml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ridhoandml" height="30" width="40" /></a>
-<a href="https://twitter.com/ridhoandml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridhoandml" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ridho-anandamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridho-anandamal" height="30" width="40" /></a>
-<a href="https://instagram.com/ridhoandml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridhoandml" height="30" width="40" /></a>
-<a href="https://dribbble.com/ridhoandml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ridhoandml" height="30" width="40" /></a>
-<a href="https://www.behance.net/ridhoandml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ridhoandml" height="30" width="40" /></a>
-<a href="https://medium.com/@ridhoandml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ridhoandml" height="30" width="40" /></a>
-</p>
+### Code Language
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-0074c2?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-f1437e?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![NuxtJS](https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D)
+![NPM](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-f1437e?style=for-the-badge&logo=storybook&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0074c2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0074c2?style=for-the-badge&logo=flutter&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Design and Video
+![Figma](https://img.shields.io/badge/-Figma-202020?style=for-the-badge&logo=figma&logoColor=white)
+![Affinity Suite](https://img.shields.io/badge/-Affinity_Suite-AC2CDC?style=for-the-badge&logo=affinity&logoColor=white)
+![Davinci Resolve](https://img.shields.io/badge/-Davinci_Resolve-092640?style=for-the-badge&logo=davinci&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhoandml&show_icons=true&locale=en&layout=compact" alt="ridhoandml" /></p>
+### Software
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhoandml&show_icons=true&locale=en" alt="ridhoandml" /></p>
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Google Doc](https://img.shields.io/badge/Google_Suite-10A45A?style=for-the-badge&logo=google&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-f5f5f5?style=for-the-badge&logo=notion&logoColor=black)
+![Framer](https://img.shields.io/badge/Framer-0074c2?style=for-the-badge&logo=framer&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhoandml&" alt="ridhoandml" /></p>
+## Stats
+
+![ridhoandml](https://github-readme-stats.vercel.app/api/top-langs?username=ridhoandml&show_icons=true&locale=en&layout=compact)
+
+![ridhoandml](https://github-readme-stats.vercel.app/api?username=ridhoandml&show_icons=true&locale=en)
+
+![ridhoandml](https://github-readme-streak-stats.herokuapp.com/?user=ridhoandml&)
 
