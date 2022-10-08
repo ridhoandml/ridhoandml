@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #0ea5e9;">Hola! I'm Ridho Anandamal</h1>
-<h3 align="center">A passionate UX Engineer and Front-end Engineer</h3>
+<h3 align="center">A UI Designer interest on UX Engineer or Front-end Engineer</h3>
 
 - 🌱 I’m currently learning **Experimenting build design system using VueJS, CSS animation, SEO, and Accessbility Design**
 
